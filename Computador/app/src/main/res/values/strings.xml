@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Computador</string>
+
+
+    <string name="menu_item_novo">Novo</string>
+    <string name="menu_item_salvar">Salvar</string>
+    <string name="menu_item_excluir">Excluir</string>
+    <string name="menu_item_cancelar">Cancelar</string>
+    <string name="menu_item_pesquisar">Pesquisar</string>
+
+
+    <string name="tela1_computador">Computador</string>
+
+    <string name="tela1_cpu">CPU: </string>
+
+    <string name="tela1_ram">RAM: </string>
+
+    <string name="tela1_hd">HD: </string>
+    <string name="tela1_marca">Marca: </string>
+
+</resources>

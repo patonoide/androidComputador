@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\patonoide\Desktop\Computador\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="C:\Users\patonoide\Desktop\Computador\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.4.0_331b754631861d8d159dd9455554dfe554f7066b.jar" />
+    </item>
+    <item
+        jar="C:\Users\patonoide\Desktop\Computador\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="C:\Users\patonoide\Desktop\Computador\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-23.4.0_4c03f7a472a7aee9af24cfe9d73de75e1f54e05c.jar" />
+    </item>
+    <item
+        jar="C:\Users\patonoide\Desktop\Computador\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="C:\Users\patonoide\Desktop\Computador\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.4.0_4b706e0ce89c4348b3d9e4310a413b4ea7d29398.jar" />
+    </item>
+    <item
+        jar="C:\Users\patonoide\Desktop\Computador\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\libs\internal_impl-23.4.0.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="C:\Users\patonoide\Desktop\Computador\app\build\intermediates\pre-dexed\debug\internal_impl-23.4.0_b9de44894f2787c417cd8f52480e83e0872f1cd4.jar" />
+    </item>
+    <item
+        jar="C:\Users\patonoide\Desktop\Computador\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="5c4f96045ec2b707b977af26bccd7fda400fb90a">
+        <dex dex="C:\Users\patonoide\Desktop\Computador\app\build\intermediates\pre-dexed\debug\instant-run_a6cf4b5c6211840cda94d09c6544654b606a0871.jar" />
+    </item>
+    <item
+        jar="C:\Users\patonoide\Desktop\Computador\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="C:\Users\patonoide\Desktop\Computador\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-23.4.0_3ee71f2e03f752ad572a279240b12fba323f7191.jar" />
+    </item>
+    <item
+        jar="C:\Users\patonoide\Desktop\Computador\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="af51dbe6a370c4966040ee93df7022b23a75273e">
+        <dex dex="C:\Users\patonoide\Desktop\Computador\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_eb9cc8ca26f3d722cea8a144e259b3eb9a5cc8e8.jar" />
+    </item>
+    <item
+        jar="C:\Users\patonoide\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.4.0\support-annotations-23.4.0.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="C:\Users\patonoide\Desktop\Computador\app\build\intermediates\pre-dexed\debug\support-annotations-23.4.0_8d71682eb2f3a7010ba111fe8134491a3468a8ec.jar" />
+    </item>
+
+</items>
